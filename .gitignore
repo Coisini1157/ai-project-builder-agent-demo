@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.agent_build/
+.env
+.DS_Store
