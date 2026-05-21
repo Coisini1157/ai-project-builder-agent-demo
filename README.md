@@ -54,7 +54,7 @@ export OPENAI_MODEL="gpt-4o-mini"
 python agent_demo.py --use-llm
 ```
 
-## GitHub Actions 示例
+## Actions 示例
 
 可以把下面内容保存为 `.github/workflows/demo.yml`：
 
